@@ -6,11 +6,8 @@ This is a compendium of little projects I did while taking the PCAP course in Ne
 - Technologies I used
 
 IDLE (so if you try them, be careful with how the spacing tabs or spaces are parsed).
-
 Git.
-
 Github.
-
 Vi.
 
 
