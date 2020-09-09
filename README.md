@@ -3,12 +3,17 @@
 This is a compendium of little projects I did while taking the PCAP course in Netacad. Which means that, they are variations of the practices since there exists many ways of doing and understanding things.
 
 
+
 - Technologies I used
 
 IDLE (so if you try them, be careful with how the spacing tabs or spaces are parsed).
+
 Git.
+
 Github.
+
 Vi.
+
 
 
 - What I've learned from it
